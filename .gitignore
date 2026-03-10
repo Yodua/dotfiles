@@ -1,0 +1,11 @@
+/*
+
+#whitelist
+!.gitignore
+!alacritty/
+!hypr/
+!nautilus/
+!nvim/
+!pulse/
+!tmux/
+!waybar/
