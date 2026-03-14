@@ -10,3 +10,6 @@
 !tmux/
 !waybar/
 !rofi/
+!.zsh_plugins.txt
+!.zsh_plugins.zsh
+!.zshrc

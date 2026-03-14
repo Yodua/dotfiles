@@ -1,0 +1,7 @@
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-syntax-highlighting
+git@github.com:marlonrichert/zsh-autocomplete.git
+git@github.com:MichaelAquilina/zsh-you-should-use.git
+git@github.com:fdellwing/zsh-bat.git
+git@github.com:jeffreytse/zsh-vi-mode.git
+git@github.com:hlissner/zsh-autopair.git
