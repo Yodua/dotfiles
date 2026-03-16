@@ -1,12 +1,12 @@
 /*
 
 #whitelist
+!readme.md
 !.gitignore
 !alacritty/
 !hypr/
 !nautilus/
 !nvim/
-!pulse/
 !tmux/
 !waybar/
 !rofi/
